@@ -1,5 +1,9 @@
 # **Lunaprise Moon Museum**
 
+<div align="center">
+  <img src="https://github.com/jayrosen-design/Lunaprise-Moon-Museum/blob/main/ModernistLATELIER_LunapriseMissionPatch1_approved1-300x298.png?raw=true" alt="Lunaprise Mission Logo" width="200">
+</div>
+
 On **February 22, 2024**, the **Intuitive Machines IM-1 Moon Lander** launched from Kennedy Space Center, carrying a payload of **NFT artworks** to the Moon! This marks a historic milestone as part of the **Lunaprise & BitBasel collection**, which represents the **United Nations Sustainable Development Goals (SDGs)**.
 
 This repository showcases an early demo of the **Moon Museum app**, which provides an immersive experience to explore the NFT artworks that have made their journey to the Moon.
@@ -10,6 +14,27 @@ This repository showcases an early demo of the **Moon Museum app**, which provid
 - **Historic Mission**: First collection of NFT artworks sent to the Moon aboard the Intuitive Machines IM-1 Moon Lander.
 - **App Purpose**: The Moon Museum app enables users to view, interact with, and learn about the NFT artworks that represent global initiatives tied to the UN SDGs.
 - **Cultural Significance**: Combines blockchain technology and art to bridge creativity and sustainability in a groundbreaking way.
+
+---
+
+## **Screenshots**
+### App Interface
+<div align="center">
+  <img src="https://github.com/jayrosen-design/Lunaprise-Moon-Museum/blob/main/2023-12-05-01-14-10-frame-at-0m57s.jpg?raw=true" alt="App Screenshot" width="600">
+  <p><em>Moon Museum App Interface</em></p>
+</div>
+
+### AR Portal View
+<div align="center">
+  <img src="https://github.com/jayrosen-design/Lunaprise-Moon-Museum/blob/main/1707853937950.jpg?raw=true" alt="AR Portal View" width="600">
+  <p><em>Explore the Moon Museum via Augmented Reality</em></p>
+</div>
+
+### Concept Art: BitBasel NFT Gallery
+<div align="center">
+  <img src="https://github.com/jayrosen-design/Lunaprise-Moon-Museum/blob/main/15-1024x576.png?raw=true" alt="BitBasel NFT Gallery Concept Art" width="600">
+  <p><em>BitBasel NFT Gallery Concept Art from Art With Me Festival 2023</em></p>
+</div>
 
 ---
 
@@ -47,4 +72,4 @@ This project was made possible by the collaborative efforts of:
 
 ---
 
-Explore the Moon Museum app and celebrate the intersection of **art**, **technology**, and **sustainability** in space!
+Celebrate the intersection of **art**, **technology**, and **sustainability** with the **Lunaprise Moon Museum**!
